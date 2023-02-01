@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/YvtfOnT.gif" align="center" allowFullScreen>
 </div>
 <hr>
-<h3 align="center">An Enthusiastic Web3 Front End Developer & Web2 Full Stack Developer who loves to build apps and always open to face challenges.</h3>
+<h3 align="center">Currently Building Products with Fourkites as an Intern</h3>
 
 
 <p align="center">
@@ -16,8 +16,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/sahil2311sharma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahil2311sharma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahil2311sharma&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/sahil-sharma-fk">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahil-sharma-fk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahil-sharma-fk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
