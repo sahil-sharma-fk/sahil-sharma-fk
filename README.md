@@ -4,7 +4,7 @@
 </div>
 <hr>
 <h3 align="center">Currently Building Products with Fourkites as an Intern</h3>
-
+- 👨‍💻 All of my personal projects are available at [github](https://github.com/sahil2311sharma?tab=repositories)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahil-sharma-fk&color=blueviolet&style=flat">
