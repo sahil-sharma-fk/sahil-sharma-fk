@@ -6,11 +6,6 @@
 <h3 align="center">Currently Building Products with Fourkites as an Intern</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil2311sharma&color=blueviolet&style=flat">
-</p>
-
-
 - 👨‍💻 All of my personal projects are available at [github](https://github.com/sahil2311sharma?tab=repositories)
 
 
